@@ -1,4 +1,3 @@
-*.java
 # Created by .gitignore support plugin (hsz.mobi)
 algorithms-solution.iml
 ### Java template
@@ -66,3 +65,5 @@ crashlytics.properties
 crashlytics-build.properties
 
 
+
+src
